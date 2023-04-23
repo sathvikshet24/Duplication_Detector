@@ -1,0 +1,3 @@
+#Duplication Detector
+
+Developed a plagiarism detection tool using Python and Tkinter GUI, allowing users to upload multiple files and obtain a plagiarism percentage. Utilized the Vector Space Model from Scikit-Learn to compute the similarity between documents, providing accurate and efficient plagiarism detection. Gained experience in implementing natural language processing techniques for document analysis.
